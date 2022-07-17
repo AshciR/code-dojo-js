@@ -24,16 +24,27 @@ const groupPokemonByType = pokemon => {
         // Check if the key exists,
         // if it exists add to the list,
         // else then create an empty list
-        if(acc[item.type]){
-            acc[item.type] = [...acc[item.type], item]
-        } else {
-            acc[item.type] = [item]
-        }
+        acc[item.type] = acc[item.type] ? [...acc[item.type], item] : [item];
         return acc;
     },{})
 
 }
 
+const flattenArray = data => {
+    // our initial value this time is a blank array
+    const initialValue = [];
+
+    // call reduce on our data
+    return data.reduce((total, value) => {
+        // if the value is an array then recursively call reduce
+        // if the value is not an array then just concat our value
+        return total.concat(Array.isArray(value) ? flattenArray(value) : value);
+    }, initialValue);
+};
+
 // const result = getNameMapFromArray(pokemon);
-const result = groupPokemonByType(pokemon);
+// const result = groupPokemonByType(pokemon);
+const numArray = [1, 2, [3, 10, [11, 12]], [1, 2, [3, 4]], 5, 6];
+const result = flattenArray(numArray);
+
 console.log(result);

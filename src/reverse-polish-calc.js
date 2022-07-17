@@ -1,7 +1,7 @@
 const reversePolishCalc = (expr) => {
 
     // Steps:
-    // We need to check each element then determine if it's a number or an operand
+    // We need to check each element then determine if it's a number or an operator
     // If it's a number, add it to a stack
     // else, it's an operator
     // get the last 2 values from the stack and apply the operator
