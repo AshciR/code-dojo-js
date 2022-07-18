@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a09c3d8e-d98b-4104-85d5-5ed3f5f08ec3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/divide-and-conquer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/divide-and-conquer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,7 @@
       <updated>1657991731381</updated>
       <workItem from="1657991732844" duration="13354000" />
       <workItem from="1658075513280" duration="11696000" />
-      <workItem from="1658184718113" duration="1616000" />
+      <workItem from="1658184718113" duration="2600000" />
     </task>
     <servers />
   </component>
@@ -113,6 +113,12 @@
           <line>7</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/divide-and-conquer.js</url>
+          <line>27</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
