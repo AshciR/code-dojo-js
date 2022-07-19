@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a09c3d8e-d98b-4104-85d5-5ed3f5f08ec3" name="Changes" comment="" />
+    <list default="true" id="a09c3d8e-d98b-4104-85d5-5ed3f5f08ec3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,22 +29,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "js.last.introduce.type": "CONST",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
-  <component name="RunManager" selected="Node.js.divide-and-conquer.js">
+}]]></component>
+  <component name="RunManager" selected="Node.js.napolean.js">
     <configuration name="divide-and-conquer.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/divide-and-conquer.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
     <configuration name="group-anagrams.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/group-anagrams.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
-    <configuration name="invert-tree.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/invert-tree.js" working-dir="$PROJECT_DIR$/src">
+    <configuration name="napolean.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/napolean.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
     <configuration name="reduce.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/reduce.js" working-dir="$PROJECT_DIR$/src">
@@ -53,11 +56,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.napolean.js" />
         <item itemvalue="Node.js.divide-and-conquer.js" />
         <item itemvalue="Node.js.group-anagrams.js" />
         <item itemvalue="Node.js.two-sums.js" />
         <item itemvalue="Node.js.reduce.js" />
-        <item itemvalue="Node.js.invert-tree.js" />
       </list>
     </recent_temporary>
   </component>
@@ -71,7 +74,8 @@
       <updated>1657991731381</updated>
       <workItem from="1657991732844" duration="13354000" />
       <workItem from="1658075513280" duration="11696000" />
-      <workItem from="1658184718113" duration="3358000" />
+      <workItem from="1658184718113" duration="4431000" />
+      <workItem from="1658263677071" duration="3625000" />
     </task>
     <servers />
   </component>
@@ -109,14 +113,24 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/divide-and-conquer.js</url>
           <line>7</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/divide-and-conquer.js</url>
           <line>27</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/napolean.js</url>
+          <line>28</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/napolean.js</url>
+          <line>26</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
