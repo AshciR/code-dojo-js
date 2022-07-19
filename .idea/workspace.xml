@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a09c3d8e-d98b-4104-85d5-5ed3f5f08ec3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/divide-and-conquer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/divide-and-conquer.js" afterDir="false" />
-    </list>
+    <list default="true" id="a09c3d8e-d98b-4104-85d5-5ed3f5f08ec3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +71,7 @@
       <updated>1657991731381</updated>
       <workItem from="1657991732844" duration="13354000" />
       <workItem from="1658075513280" duration="11696000" />
-      <workItem from="1658184718113" duration="2600000" />
+      <workItem from="1658184718113" duration="3358000" />
     </task>
     <servers />
   </component>
