@@ -38,11 +38,14 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.product-except-self.js">
+  <component name="RunManager" selected="Node.js.linked-list.js">
     <configuration name="divide-and-conquer.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/divide-and-conquer.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
     <configuration name="group-anagrams.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/group-anagrams.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="linked-list.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/linked-list.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
     <configuration name="napolean.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/napolean.js" working-dir="$PROJECT_DIR$/src">
@@ -51,16 +54,13 @@
     <configuration name="product-except-self.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/product-except-self.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
-    <configuration name="two-sums.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/two-sums.js" working-dir="$PROJECT_DIR$/src">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.linked-list.js" />
         <item itemvalue="Node.js.product-except-self.js" />
         <item itemvalue="Node.js.napolean.js" />
         <item itemvalue="Node.js.divide-and-conquer.js" />
         <item itemvalue="Node.js.group-anagrams.js" />
-        <item itemvalue="Node.js.two-sums.js" />
       </list>
     </recent_temporary>
   </component>
@@ -77,7 +77,8 @@
       <workItem from="1658184718113" duration="4431000" />
       <workItem from="1658263677071" duration="6166000" />
       <workItem from="1658347558311" duration="1513000" />
-      <workItem from="1658446970724" duration="2562000" />
+      <workItem from="1658446970724" duration="3499000" />
+      <workItem from="1658596495507" duration="1355000" />
     </task>
     <servers />
   </component>
@@ -135,7 +136,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/product-except-self.js</url>
           <line>6</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
