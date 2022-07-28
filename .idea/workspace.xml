@@ -38,11 +38,8 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.linked-list.js">
-    <configuration name="divide-and-conquer.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/divide-and-conquer.js" working-dir="$PROJECT_DIR$/src">
-      <method v="2" />
-    </configuration>
-    <configuration name="group-anagrams.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/group-anagrams.js" working-dir="$PROJECT_DIR$/src">
+  <component name="RunManager" selected="Node.js.graphs.js">
+    <configuration name="graphs.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/graphs.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
     <configuration name="linked-list.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/linked-list.js" working-dir="$PROJECT_DIR$/src">
@@ -54,13 +51,16 @@
     <configuration name="product-except-self.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/product-except-self.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
+    <configuration name="reduce.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/reduce.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.graphs.js" />
+        <item itemvalue="Node.js.reduce.js" />
         <item itemvalue="Node.js.linked-list.js" />
         <item itemvalue="Node.js.product-except-self.js" />
         <item itemvalue="Node.js.napolean.js" />
-        <item itemvalue="Node.js.divide-and-conquer.js" />
-        <item itemvalue="Node.js.group-anagrams.js" />
       </list>
     </recent_temporary>
   </component>
@@ -79,6 +79,9 @@
       <workItem from="1658347558311" duration="1513000" />
       <workItem from="1658446970724" duration="3499000" />
       <workItem from="1658596495507" duration="1355000" />
+      <workItem from="1658611928881" duration="28000" />
+      <workItem from="1658880006246" duration="4990000" />
+      <workItem from="1658969998489" duration="1138000" />
     </task>
     <servers />
   </component>
@@ -137,6 +140,17 @@
           <url>file://$PROJECT_DIR$/src/product-except-self.js</url>
           <line>6</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/graphs.js</url>
+          <line>41</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/graphs.js</url>
+          <line>46</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
