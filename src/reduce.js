@@ -43,8 +43,8 @@ const flattenArray = data => {
 };
 
 // const result = getNameMapFromArray(pokemon);
-// const result = groupPokemonByType(pokemon);
-const numArray = [1, 2, [3, 10, [11, 12]], [1, 2, [3, 4]], 5, 6];
-const result = flattenArray(numArray);
+const result = groupPokemonByType(pokemon);
+// const numArray = [1, 2, [3, 10, [11, 12]], [1, 2, [3, 4]], 5, 6];
+// const result = flattenArray(numArray);
 
 console.log(result);
