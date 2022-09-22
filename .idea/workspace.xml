@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a09c3d8e-d98b-4104-85d5-5ed3f5f08ec3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reduce.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reduce.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/anagram.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/anagram.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/divide-and-conquer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/divide-and-conquer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,17 +40,17 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.checking-objects.js">
-    <configuration name="Queue.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Queue.js" working-dir="$PROJECT_DIR$/src">
+  <component name="RunManager" selected="Node.js.divide-and-conquer.js">
+    <configuration name="anagram.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/anagram.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
     <configuration name="checking-objects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/checking-objects.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
-    <configuration name="graphs.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/graphs.js" working-dir="$PROJECT_DIR$/src">
+    <configuration name="divide-and-conquer.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/divide-and-conquer.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
-    <configuration name="linked-list.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/linked-list.js" working-dir="$PROJECT_DIR$/src">
+    <configuration name="product-except-self.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/product-except-self.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
     <configuration name="reduce.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/reduce.js" working-dir="$PROJECT_DIR$/src">
@@ -57,11 +58,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.divide-and-conquer.js" />
+        <item itemvalue="Node.js.product-except-self.js" />
+        <item itemvalue="Node.js.anagram.js" />
         <item itemvalue="Node.js.checking-objects.js" />
         <item itemvalue="Node.js.reduce.js" />
-        <item itemvalue="Node.js.Queue.js" />
-        <item itemvalue="Node.js.graphs.js" />
-        <item itemvalue="Node.js.linked-list.js" />
       </list>
     </recent_temporary>
   </component>
@@ -92,6 +93,11 @@
       <workItem from="1661272386057" duration="14875000" />
       <workItem from="1661463908515" duration="6893000" />
       <workItem from="1661570500371" duration="599000" />
+      <workItem from="1662227744707" duration="56000" />
+      <workItem from="1663087187461" duration="643000" />
+      <workItem from="1663177656800" duration="551000" />
+      <workItem from="1663195098714" duration="3867000" />
+      <workItem from="1663260305012" duration="644000" />
     </task>
     <servers />
   </component>
@@ -155,6 +161,31 @@
           <url>file://$PROJECT_DIR$/src/reduce.js</url>
           <line>49</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/anagram.js</url>
+          <line>40</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/product-except-self.js</url>
+          <line>20</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/product-except-self.js</url>
+          <line>40</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/divide-and-conquer.js</url>
+          <line>16</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/divide-and-conquer.js</url>
+          <line>11</line>
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

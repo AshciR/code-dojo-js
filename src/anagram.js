@@ -35,6 +35,15 @@ const convertToFreqMap = (word) => {
     return freqMap;
 }
 
+const convertToFreqMapFunctionalImpl = (word) => {
+
+    return [...word].reduce((acc, currentValue) => {
+        acc[currentValue] ? acc[currentValue]++ : acc[currentValue] = 1
+        return acc
+    }, {});
+
+}
+
 const everyEntryHasSameValue = (sFreqMap, tFreqMap) => {
 
     for (const key in sFreqMap) {
@@ -58,4 +67,6 @@ const wordPairs = [
 ]
 
 wordPairs.forEach(pair => console.log(isAnagram(pair.firstWord, pair.secondWord)));
+
+console.log(convertToFreqMapFunctionalImpl("hello"));
 
